@@ -36,9 +36,9 @@
         
         // example: 
         
-        collectable.create(type.star, 100, 150, 0, 0.2);
-        collectable.create(type.moon, 100, 200, 0, 0.3);
-        collectable.create(type.cloud, 200, 300, 0, 0.5);
+        collectable.create(type.db, 100, 150, 0, 0.2);
+        collectable.create(type.steve, 500, 300, 0, 0.3 );
+        collectable.create(type.grace, 600, 500, 0, 0.5 );
         
         
         
